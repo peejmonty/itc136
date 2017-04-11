@@ -1,0 +1,40 @@
+Hardware 
+  Motherboard
+  Ram CPU
+  video Card
+  Disk
+  Monitor
+  Keyboard
+  Mouse
+                                  Drivers
+                                  System Calls
+                                  "Libraries"
+OS Kernel
+  CPU TOME
+  Processed/calculator
+  memory allocation
+  procces
+  additonaly recources
+                                Micro Kernels
+                                Monolithic Kernels
+                                
+ UNIX - bell labs - berkly - copywrite - BSD
+ Linux was created by a man name Linus Stalman. Had full support but was difficult to use
+ GNU-open sourece
+ 
+ Ubuntu is a form of Lenux that is geared toward first time users and computer buyers
+ Debian (company creating linux) believe in Militantly free tech support. 
+ 
+ Suse mainly works on Desktop and Server intitrations in order to get this you can open source Suse
+ 
+ BSD
+    Free BSD
+    created in 1993
+    Net BSD
+    OPEN BSD
+      They are very security centric
+      They set up BSD "Jails"- Precursor to full virtual machines- allows you to lock down resources and fully.
+      Chrooting- Isolates
+      
+      Android uses Linux kernal. 
+      OSX uses BSD
