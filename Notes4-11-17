@@ -38,3 +38,19 @@ OS Kernel
       
       Android uses Linux kernal. 
       OSX uses BSD
+      
+                                                      Packaging
+      Zyper - suse/ open source                       RPM
+      apt-get -Debian and Ubuntu                      .DEB
+      yum- Red Hot, Fedora, and Centos                RPM
+      
+      Examples of embedded systems
+      Android (smart phones)
+      IOS (smart phone/ tablet/ watch
+      ROCU
+      Calculators
+      Rumba
+      Servelance cameras 
+      Thermostat
+      Home Security
+      SanFranciscco Transportation
