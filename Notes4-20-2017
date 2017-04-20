@@ -1,0 +1,16 @@
+Looking at the terminal we
+entered commangds 
+ps (this command showed all of the processes in current session)
+ps aux (all process)
+ps aux | more (all system processes
+
+PID - Process ID 
+  with information you can change order of process and kill processes not wanted
+  
+  %CPU - This refers to the % of the process that is utilizing the Central Processing Unit
+  %Mem - this refers to the % of the process that is usilizing the Memory
+  
+  
+  
+lsof- List of open files
+lsof | more - allows you to go through the files at your own pace
