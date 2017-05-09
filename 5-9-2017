@@ -1,0 +1,14 @@
+LDAP- Linux - windows- Active Directory
+Light Weight Directory Access
+Protocal
+
+  when you add a user using the LDAP or AD that user is added to all machines. 
+  
+  RFC = Request for Comments
+  
+  Groups
+  - Easy to set permissions
+      Philosophy
+        Project
+         User
+         Put people in groups by the things they're working on Users,Staff
