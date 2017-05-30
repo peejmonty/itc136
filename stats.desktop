@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.1
+Name=stats
+Comment=generated program
+Exec=/usr/local/bin/gnome-terminal -e /usr/local/bin/stats
+Icon=/home/peejmonty/Pictures/index.jpeg
+Terminal=true
+Type=Application
+Categories=Utility;Application;
